@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RanGen", "RanGen\RanGen.csproj", "{1970D260-4070-4059-B467-44005802F30A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1970D260-4070-4059-B467-44005802F30A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1970D260-4070-4059-B467-44005802F30A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1970D260-4070-4059-B467-44005802F30A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1970D260-4070-4059-B467-44005802F30A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4085715D-37C0-44D7-9BB7-B3CA83770A48}
+	EndGlobalSection
+EndGlobal
